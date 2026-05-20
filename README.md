@@ -2,7 +2,7 @@
 
 > A structured penetration testing methodology reference for ethical hackers, bug bounty hunters, and security researchers.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 ![Made with](https://img.shields.io/badge/made%20with-Markdown-lightgrey.svg)
 ![For](https://img.shields.io/badge/for-ethical%20hacking%20only-red.svg)
